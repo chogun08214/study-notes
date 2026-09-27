@@ -16,4 +16,3 @@ C · C++ · 임베디드 · 데이터 분석을 공부하며 작성한 실습 �
 - [simple_chatbot](https://github.com/chogun08214/simple_chatbot) — LangChain LLM 챗봇 · RAG
 - [Seoul_subway_data_analytic](https://github.com/chogun08214/Seoul_subway_data_analytic) — 서울 지하철 승하차 데이터 분석
 
-> C · C++ 소스는 원래 EUC-KR(CP949)로 저장되어 GitHub에서 한글 주석이 깨져 보였기 때문에, 내용은 그대로 두고 UTF-8로만 변환했습니다.
