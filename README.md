@@ -9,7 +9,7 @@ Python · C · C++ · 자료구조 · 임베디드 · 데이터 분석을 공부
 | [`data-structure/`](data-structure/) | C | 배열 스택으로 구현한 미로 탐색(DFS)과 탐색 과정 시각화 |
 | [`embedded-arm-cortex-m3/`](embedded-arm-cortex-m3/) | 임베디드 C | ARM Cortex-M3(LPC1766) 보드 실습 — DAC 파형 출력, UART, 타이머, PWM |
 | [`data-analysis/`](data-analysis/) | Python | 인프런 「공공데이터로 파이썬 데이터 분석 시작하기」 실습 — pandas 전처리 · 집계, seaborn 시각화 |
-| [`Python_Express/`](Python_Express/) | Python | 교재 챕터별 개념 정리 · 예제 (자료형, 조건문, 반복문, 함수, 리스트 · 튜플 · 딕셔너리 · 세트, 클래스, tkinter GUI) |
+| [`Python-Basics/`](Python-Basics/) | Python | 교재 챕터별 개념 정리 · 예제 (자료형, 조건문, 반복문, 함수, 리스트 · 튜플 · 딕셔너리 · 세트, 클래스, tkinter GUI) |
 
 ## 프로젝트 저장소
 
