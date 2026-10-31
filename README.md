@@ -4,7 +4,7 @@ Python · C · C++ · 자료구조 · 임베디드 · Excel · 데이터 분석�
 
 | 폴더 | 분야 | 내용 |
 |---|---|---|
-| [`Python-Basics/`](Python-Basics/) | Python | 교재 챕터별 개념 정리 · 예제 (자료형, 조건문, 반복문, 함수, 리스트 · 튜플 · 딕셔너리 · 세트, 클래스, tkinter GUI) |
+| [`Python-Basics/`](Python_Basics/) | Python | 교재 챕터별 개념 정리 · 예제 (자료형, 조건문, 반복문, 함수, 리스트 · 튜플 · 딕셔너리 · 세트, 클래스, tkinter GUI) |
 | [`c-programming/`](c-programming/) | C | 교재 챕터별 예제 · 연습문제 (자료형, 연산자, 제어문, 함수, 배열, 포인터, 문자열, 구조체) |
 | [`cpp-oop/`](cpp-oop/) | C++ | 객체지향 프로그래밍 챕터별 실습 (클래스, 생성자 · 소멸자, 참조, friend, 연산자 중복, 상속, 가상 함수, 템플릿), 중간 · 기말 대비 연습 |
 | [`data-structure/`](data-structure/) | C | 배열 스택으로 구현한 미로 탐색(DFS)과 탐색 과정 시각화 |
