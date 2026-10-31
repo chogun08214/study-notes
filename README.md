@@ -11,6 +11,7 @@ Python · C · C++ · 자료구조 · 임베디드 · Excel · 데이터 분석�
 | [`embedded-arm-cortex-m3/`](embedded-arm-cortex-m3/) | 임베디드 C | ARM Cortex-M3(LPC1766) 보드 실습 — DAC 파형 출력, UART, 타이머, PWM |
 | [`data-analysis/`](data-analysis/) | Python | 인프런 「공공데이터로 파이썬 데이터 분석 시작하기」 실습 — pandas 전처리 · 집계, seaborn 시각화 |
 | [`excel-data-analysis/`](excel-data-analysis/) | Excel | 「빅데이터 이해 및 활용」 수업 실습 — Power Query 정제 · 피벗 테이블 집계 · 가설검정 · 회귀분석 · 차트 · Power Pivot 데이터 모델 |
+| [`image-processing/`](image-processing/) | C++ · OpenCV | 「지능형 영상처리」 수업 실습 — 히스토그램 평활화 · 공간 필터(평균·미디언·소벨·라플라시안) · 보간·회전·어파인 변환 · 템플릿 매칭 · 포토 모자이크 (알고리즘 직접 구현) |
 
 ## 프로젝트 저장소
 
