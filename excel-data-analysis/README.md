@@ -13,24 +13,26 @@
 
 ## 파일 목록
 
-| 파일 | 주차 | 교재 | 내용 |
-|---|---|---|---|
-| `01_사망원인_파생변수_계산.xlsx` | 3주차 | 2장 Excel의 기능 | 셀 참조, 기본 함수 |
-| `02_교통사고_고급필터.xlsx` | 4주차 | 3장 | 고급 필터 |
-| `03_비구조화데이터_PowerQuery_피벗해제.xlsx` | 4주차 | 3장 | Power Query 열 피벗 해제 |
-| `04_지역별데이터_PowerQuery_통합.xlsx` | 4주차 | 3장 | Power Query 여러 시트 통합 |
-| `05_교통사고_피벗테이블_분석.xlsx` | 6주차 | 4장 | 피벗 테이블, 파생 열 |
-| `06_교통사고_피벗테이블_계산필드.xlsx` | 6주차 | 4장 | 피벗 테이블 계산 필드 |
-| `07_지점별판매_집계방법_비교.xlsx` | 6주차 | 4장 | 정렬·SUMIFS·피벗 집계 비교 |
-| `08_공시지가_피벗테이블_분석.xlsx` | 6주차 | 4장 | 대용량 데이터 피벗, 비율, 계산 필드 |
-| `09_설문_기술통계_히스토그램.xlsx` | 7주차 | 5장 통계적 개념 | 기술통계, 히스토그램 |
-| `10_설문_가설검정_z_t_ANOVA.xlsx` | 11주차 | 7장 평균 비교 | z-검정, t-검정, 분산분석 |
-| `11_설문_상관_회귀분석.xlsx` | 12주차 | 8장 상관분석 및 회귀분석 | 상관행렬, 단순·중회귀 |
-| `12_기본형_차트.xlsx` | 13주차 | 9장 데이터 시각화 | 막대, 콤보 차트 |
-| `13_추세형_차트.xlsx` | 13주차 | 9장 데이터 시각화 | 꺾은선, 영역, 날짜 축 |
-| `14_관계형_차트.xlsx` | 13주차 | 9장 데이터 시각화 | 산점도, 거품형, 방사형 |
-| `15_스파크라인_조건부서식.xlsx` | 13주차 | 9장 데이터 시각화 | 스파크라인, 데이터 막대, REPT |
-| `16_판매데이터_PowerPivot_데이터모델.xlsx` | 14주차 | 10장 Power BI | 데이터 모델, 측정값 |
+**미리보기**의 [열기]를 누르면 내려받지 않고 브라우저(Microsoft Office 웹 뷰어)에서 엑셀 파일을 그대로 볼 수 있습니다.
+
+| 파일 | 주차 | 교재 | 내용 | 미리보기 |
+|---|---|---|---|---|
+| `01_사망원인_파생변수_계산.xlsx` | 3주차 | 2장 Excel의 기능 | 셀 참조, 기본 함수 | [열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fchogun08214%2Fstudy-notes%2Fmain%2Fexcel-data-analysis%2F01_%25EC%2582%25AC%25EB%25A7%259D%25EC%259B%2590%25EC%259D%25B8_%25ED%258C%258C%25EC%2583%259D%25EB%25B3%2580%25EC%2588%2598_%25EA%25B3%2584%25EC%2582%25B0.xlsx) |
+| `02_교통사고_고급필터.xlsx` | 4주차 | 3장 | 고급 필터 | [열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fchogun08214%2Fstudy-notes%2Fmain%2Fexcel-data-analysis%2F02_%25EA%25B5%2590%25ED%2586%25B5%25EC%2582%25AC%25EA%25B3%25A0_%25EA%25B3%25A0%25EA%25B8%2589%25ED%2595%2584%25ED%2584%25B0.xlsx) |
+| `03_비구조화데이터_PowerQuery_피벗해제.xlsx` | 4주차 | 3장 | Power Query 열 피벗 해제 | [열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fchogun08214%2Fstudy-notes%2Fmain%2Fexcel-data-analysis%2F03_%25EB%25B9%2584%25EA%25B5%25AC%25EC%25A1%25B0%25ED%2599%2594%25EB%258D%25B0%25EC%259D%25B4%25ED%2584%25B0_PowerQuery_%25ED%2594%25BC%25EB%25B2%2597%25ED%2595%25B4%25EC%25A0%259C.xlsx) |
+| `04_지역별데이터_PowerQuery_통합.xlsx` | 4주차 | 3장 | Power Query 여러 시트 통합 | [열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fchogun08214%2Fstudy-notes%2Fmain%2Fexcel-data-analysis%2F04_%25EC%25A7%2580%25EC%2597%25AD%25EB%25B3%2584%25EB%258D%25B0%25EC%259D%25B4%25ED%2584%25B0_PowerQuery_%25ED%2586%25B5%25ED%2595%25A9.xlsx) |
+| `05_교통사고_피벗테이블_분석.xlsx` | 6주차 | 4장 | 피벗 테이블, 파생 열 | [열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fchogun08214%2Fstudy-notes%2Fmain%2Fexcel-data-analysis%2F05_%25EA%25B5%2590%25ED%2586%25B5%25EC%2582%25AC%25EA%25B3%25A0_%25ED%2594%25BC%25EB%25B2%2597%25ED%2585%258C%25EC%259D%25B4%25EB%25B8%2594_%25EB%25B6%2584%25EC%2584%259D.xlsx) |
+| `06_교통사고_피벗테이블_계산필드.xlsx` | 6주차 | 4장 | 피벗 테이블 계산 필드 | [열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fchogun08214%2Fstudy-notes%2Fmain%2Fexcel-data-analysis%2F06_%25EA%25B5%2590%25ED%2586%25B5%25EC%2582%25AC%25EA%25B3%25A0_%25ED%2594%25BC%25EB%25B2%2597%25ED%2585%258C%25EC%259D%25B4%25EB%25B8%2594_%25EA%25B3%2584%25EC%2582%25B0%25ED%2595%2584%25EB%2593%259C.xlsx) |
+| `07_지점별판매_집계방법_비교.xlsx` | 6주차 | 4장 | 정렬·SUMIFS·피벗 집계 비교 | [열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fchogun08214%2Fstudy-notes%2Fmain%2Fexcel-data-analysis%2F07_%25EC%25A7%2580%25EC%25A0%2590%25EB%25B3%2584%25ED%258C%2590%25EB%25A7%25A4_%25EC%25A7%2591%25EA%25B3%2584%25EB%25B0%25A9%25EB%25B2%2595_%25EB%25B9%2584%25EA%25B5%2590.xlsx) |
+| `08_공시지가_피벗테이블_분석.xlsx` | 6주차 | 4장 | 대용량 데이터 피벗, 비율, 계산 필드 | [열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fchogun08214%2Fstudy-notes%2Fmain%2Fexcel-data-analysis%2F08_%25EA%25B3%25B5%25EC%258B%259C%25EC%25A7%2580%25EA%25B0%2580_%25ED%2594%25BC%25EB%25B2%2597%25ED%2585%258C%25EC%259D%25B4%25EB%25B8%2594_%25EB%25B6%2584%25EC%2584%259D.xlsx) |
+| `09_설문_기술통계_히스토그램.xlsx` | 7주차 | 5장 통계적 개념 | 기술통계, 히스토그램 | [열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fchogun08214%2Fstudy-notes%2Fmain%2Fexcel-data-analysis%2F09_%25EC%2584%25A4%25EB%25AC%25B8_%25EA%25B8%25B0%25EC%2588%25A0%25ED%2586%25B5%25EA%25B3%2584_%25ED%259E%2588%25EC%258A%25A4%25ED%2586%25A0%25EA%25B7%25B8%25EB%259E%25A8.xlsx) |
+| `10_설문_가설검정_z_t_ANOVA.xlsx` | 11주차 | 7장 평균 비교 | z-검정, t-검정, 분산분석 | [열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fchogun08214%2Fstudy-notes%2Fmain%2Fexcel-data-analysis%2F10_%25EC%2584%25A4%25EB%25AC%25B8_%25EA%25B0%2580%25EC%2584%25A4%25EA%25B2%2580%25EC%25A0%2595_z_t_ANOVA.xlsx) |
+| `11_설문_상관_회귀분석.xlsx` | 12주차 | 8장 상관분석 및 회귀분석 | 상관행렬, 단순·중회귀 | [열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fchogun08214%2Fstudy-notes%2Fmain%2Fexcel-data-analysis%2F11_%25EC%2584%25A4%25EB%25AC%25B8_%25EC%2583%2581%25EA%25B4%2580_%25ED%259A%258C%25EA%25B7%2580%25EB%25B6%2584%25EC%2584%259D.xlsx) |
+| `12_기본형_차트.xlsx` | 13주차 | 9장 데이터 시각화 | 막대, 콤보 차트 | [열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fchogun08214%2Fstudy-notes%2Fmain%2Fexcel-data-analysis%2F12_%25EA%25B8%25B0%25EB%25B3%25B8%25ED%2598%2595_%25EC%25B0%25A8%25ED%258A%25B8.xlsx) |
+| `13_추세형_차트.xlsx` | 13주차 | 9장 데이터 시각화 | 꺾은선, 영역, 날짜 축 | [열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fchogun08214%2Fstudy-notes%2Fmain%2Fexcel-data-analysis%2F13_%25EC%25B6%2594%25EC%2584%25B8%25ED%2598%2595_%25EC%25B0%25A8%25ED%258A%25B8.xlsx) |
+| `14_관계형_차트.xlsx` | 13주차 | 9장 데이터 시각화 | 산점도, 거품형, 방사형 | [열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fchogun08214%2Fstudy-notes%2Fmain%2Fexcel-data-analysis%2F14_%25EA%25B4%2580%25EA%25B3%2584%25ED%2598%2595_%25EC%25B0%25A8%25ED%258A%25B8.xlsx) |
+| `15_스파크라인_조건부서식.xlsx` | 13주차 | 9장 데이터 시각화 | 스파크라인, 데이터 막대, REPT | [열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fchogun08214%2Fstudy-notes%2Fmain%2Fexcel-data-analysis%2F15_%25EC%258A%25A4%25ED%258C%258C%25ED%2581%25AC%25EB%259D%25BC%25EC%259D%25B8_%25EC%25A1%25B0%25EA%25B1%25B4%25EB%25B6%2580%25EC%2584%259C%25EC%258B%259D.xlsx) |
+| `16_판매데이터_PowerPivot_데이터모델.xlsx` | 14주차 | 10장 Power BI | 데이터 모델, 측정값 | [열기](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fchogun08214%2Fstudy-notes%2Fmain%2Fexcel-data-analysis%2F16_%25ED%258C%2590%25EB%25A7%25A4%25EB%258D%25B0%25EC%259D%25B4%25ED%2584%25B0_PowerPivot_%25EB%258D%25B0%25EC%259D%25B4%25ED%2584%25B0%25EB%25AA%25A8%25EB%258D%25B8.xlsx) |
 
 ---
 
@@ -142,7 +144,8 @@
 ---
 
 ## 파일 열기
-- GitHub에서는 `.xlsx` 미리보기가 되지 않아, 파일을 내려받아 Excel에서 열어야 합니다.
+- GitHub 자체에서는 `.xlsx` 미리보기가 되지 않아, 위 표의 [열기] 링크(Office 웹 뷰어)나 Excel로 열어야 합니다.
+- 웹 뷰어에서는 표·수식 결과·차트·피벗 결과를 볼 수 있지만, Power Query 단계와 Power Pivot 데이터 모델은 Excel에서 열어야 확인할 수 있습니다.
 - Power Query와 Power Pivot 기능은 Windows용 Microsoft Excel 기준입니다.
 - 일부 파일에는 교재에서 제공한 연습용 시트나 빈 표가 함께 들어 있습니다.
 
